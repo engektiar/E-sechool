@@ -1,0 +1,40 @@
+.total-bg {
+  background: #f0fff0;
+}
+.logo-img {
+  width: 118px;
+  height: 29px;
+}
+.top-header {
+  display: flex;
+  justify-content: right;
+}
+.sing-in {
+  padding: 12px, 28px, 12px 28px;
+  background: #21b573;
+  border-radius: 33px;
+  border: none;
+  color: #fff;
+}
+.img-icon {
+  width: 66px;
+  height: 85px;
+}
+.man-img {
+  width: 120px;
+  height: 120px;
+}
+.footer-sec {
+  background: #282531;
+  color: #fff;
+  height: 369px;
+}
+.footer-data {
+  height: 369px;
+  font-size: 18px;
+  text-transform: capitalize;
+}
+.copy {
+  margin-top: 10px;
+  margin-left: 35%;
+}
